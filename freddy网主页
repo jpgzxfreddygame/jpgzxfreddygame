@@ -1,0 +1,114 @@
+<html>
+    <head>
+        <h1 style=color:red;font-size:45px;>
+            Freddy 官方网站
+        </h1>
+        <h5 style=color:gray;font-size:12px>
+           <hr \>
+           MADE BY LIANG SHI , DIAO AN AND DIAO YOU .
+        </h5>
+        <hr \>
+        <br \>
+        <br \>
+        <br \>
+    <body>
+        </h5>
+        <h1>
+            新闻
+        </h1>
+        <hr \>
+        <h3 style=color:dimgray>
+            伟大的人民教师唐子杰万岁！！！
+            <a href="Freddy Htmls\唐子杰万岁.html" target = "_blank">
+                <img border="0" src="Freddy Pictures\唐子杰.jpg" width="400" height="120">
+            </a>
+            <br \>
+            <br \>
+            <br \>
+            <p style=color:red;font-size:50px;>
+                <a href="Freddy Htmls\全网征集.exe文件卡顿问题解决方案.html" target = "_blank">
+                    震惊！！！全网征集.exe文件卡顿问题解决方案！！！
+                </a>
+            </p>
+
+        </h3>
+        <hr \>
+        <br \>
+        <br \>
+        <br \>
+
+    </head>
+        <h4>
+            <a href="Freddy Htmls\Freddy introduction.html" target = "_blank">
+                网站介绍(点这里查看网站介绍)
+            </a>
+    </h4>
+    <h3>
+        新作发布
+        <hr \>
+    </h3>
+    <p>
+    </p>
+    <p>
+        <a href="Freddy Games\超级迷宫.exe" target = "_blank">
+            <img border="0" src="Freddy Pictures\超级迷宫.jpeg" width="130" height="100">
+        </a>
+
+        <a href="Freddy Games\纸片战争Beta压缩试行.html" target = "_blank">
+            <img border="0" src="Freddy Pictures\纸片战争.jpeg.png" width="130" height="100">
+        </a>
+        <a href="Freddy Games\元气小k.exe" target = "_blank">
+            <img border="0" src="Freddy Pictures\元气小k.jpeg" width="130" height="100">
+        </a>
+        <a href="Freddy Games\城市保卫战.exe" target = "_blank">
+            <img border="0" src="Freddy Pictures\城市保卫战.jpeg" width="130" height="100">
+        </a>
+        <a href="Freddy Games\贪吃蛇.html" target = "_blank">
+            <img border="0" src="Freddy Pictures\贪吃蛇.jpeg" width="130" height="100">
+        </a>
+        </p>
+        <p style=color:gray;font-size:12>
+        有的游戏可以在线玩，有的游戏需要下载。
+        </p>
+        <hr \>
+        <h3>
+            作品预告
+            <hr \>
+        </h3>
+        <p>
+            <a href="Freddy htmls\Trump introduction.html" target = "_blank">
+                <img border="0" src="Freddy Pictures\F--king Trump .jpeg" width="130" height="100">
+            </a>
+        <p>
+            Trump
+        </p>
+        </p>
+        <hr \>
+        <p style=color:gray;font-size:12px>
+            (此区域作品正在调试，可能会出现BUG)
+        </p>
+            <h3>
+            版本日志
+            <hr \>
+            <a href="Freddy Htmls\版本日志V0.0.1.html" target = "_blank">
+                <img border="0" src="Freddy Pictures\版本日志V0.0.1.jpeg" width="130" height="100">
+            </a>
+            <a href="Freddy Htmls\版本日志V0.0.2.html" target = "_blank">
+                <img border="0" src="Freddy Pictures\版本日志V0.0.2.jpeg" width="130" height="100">
+            </a>
+            <a href="Freddy Htmls\版本日志V0.0.3.html" target = "_blank">
+                <img border="0" src="Freddy Pictures\版本日志V0.0.3.jpeg" width="130" height="100">
+            </a>
+        </h3>
+        <p style=color:gray>
+            <hr \>
+            <br \>
+            <p style=color:gray;font-size:12>
+                版本：V0.0.3
+                <br \>
+                感谢锦一信竟班成员提供的部分游戏！
+                伟大的人民教师唐子杰万岁！！！
+            </p>
+        </p>
+    </body>
+</html>
